@@ -264,7 +264,7 @@ i.fa-bars {
 .header {
   min-height: 100vh;
   background: linear-gradient(rgba(23, 44, 66, 0.4), rgba(0, 0, 0, 0.7)),
-    url("../images/tea-img-8.jpg") center/cover no-repeat fixed;
+    url("./images/tea-img-8.jpg") center/cover no-repeat fixed;
   position: relative;
   /* animation */
   overflow-x: hidden;
